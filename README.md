@@ -1,1 +1,1 @@
-# A simple matter-js example
+# A simple Matter-JS example
