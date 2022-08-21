@@ -1,1 +1,1 @@
-# A simple Matter-JS example
+# A simple Matter-JS/React example
