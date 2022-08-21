@@ -1,2 +1,1 @@
-# simple_matterjs
-Created with CodeSandbox
+# A simple matter-js example
